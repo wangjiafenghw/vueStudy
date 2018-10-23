@@ -1,0 +1,42 @@
+{
+  "name": "vuestudy",
+  "version": "1.0.0",
+  "description": "学习vue",
+  "main": "index.js",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "7",
+    "bable-loader": "^0.0.1-security",
+    "css-loader": "^1.0.0",
+    "es6-promise": "^4.2.5",
+    "express": "^4.16.4",
+    "express-urlrewrite": "^1.2.0",
+    "style-loader": "^0.23.1",
+    "vue": "^2.5.17",
+    "vue-loader": "^15.4.2",
+    "vue-router": "^3.0.1",
+    "webpack": "^4.22.0",
+    "webpack-dev-middleware": "^3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "example": "node examples/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangjiafenghw/vueStudy.git"
+  },
+  "keywords": [
+    "vue",
+    "study",
+    "framework"
+  ],
+  "author": "wangjiafenghw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangjiafenghw/vueStudy/issues"
+  },
+  "homepage": "https://github.com/wangjiafenghw/vueStudy#readme"
+}
